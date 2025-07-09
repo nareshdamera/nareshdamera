@@ -23,6 +23,6 @@ I'm a B.Tech CSE student at RGUKT, passionate about web development, AI, and bui
 - 
 ### 📫 Contact Me
 
-[LinkedIn](https://linkedin.com/in/your-link](https://www.linkedin.com/in/naresh-damera-b993b7284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
+[LinkedIn](https://www.linkedin.com/in/naresh-damera-b993b7284/) 
 
 📧 Email: nareshdamera0969@gmail.com 

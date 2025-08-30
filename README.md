@@ -10,7 +10,7 @@ I'm a B.Tech CSE student at RGUKT, passionate about web development, AI, and bui
 **Frontend:** React, Tailwind CSS  
 **Backend:** Node.js, Express, Spring Boot 
 **Database:** MongoDB, MySQL
-**Others:** Git, Postman, Gmail SMTP
+**Others:** Git, Postman
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss)

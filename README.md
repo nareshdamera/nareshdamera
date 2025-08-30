@@ -8,8 +8,8 @@ I'm a B.Tech CSE student at RGUKT, passionate about web development, AI, and bui
 ### 🛠️ Tech Stack
 
 **Frontend:** React, Tailwind CSS  
-**Backend:** Node.js, Express  
-**Database:** MongoDB  
+**Backend:** Node.js, Express, Spring Boot 
+**Database:** MongoDB, MySQL
 **Others:** Git, Postman, Gmail SMTP
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
@@ -24,7 +24,6 @@ I'm a B.Tech CSE student at RGUKT, passionate about web development, AI, and bui
 
 ### 📚 Currently Learning
 
-- Spring Boot (Backend Java)
 - DevOps basics (CI/CD pipelines, Docker)
 - System Design principles
 - 
